@@ -1,0 +1,14 @@
+# Runtime data created by the app
+data.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
