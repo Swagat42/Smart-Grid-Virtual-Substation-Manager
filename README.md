@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Smart Grid Virtual Substation Manager
+#  Smart Grid Virtual Substation Manager
 
 **A desktop app for creating, monitoring and managing virtual electrical substations,<br>built with Python, CustomTkinter and object-oriented design.**
 
